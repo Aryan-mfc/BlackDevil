@@ -31,7 +31,7 @@ $ cd BlackDevil
 $ ls
 $ git pull
 $ chmod +x *
-$ python2 Black-Devil.py
+$ python Black-Devil.py
 
  Tool Installation successful
 
@@ -49,7 +49,7 @@ git clone https://github.com/Aryan-mfc/BlackDevil
 cd BlackDevil
 git pull
 chmod +x *
-python2 Black-Devil.py
+python Black-Devil.py
 
  Tool Installation successful
 
@@ -64,7 +64,7 @@ git clone https://github.com/Aryan-mfc/BlackDevil
 cd BlackDevil
 git pull
 chmod +x *
-python2 Black-Devil.py
+python Black-Devil.py
 
 
 
@@ -90,7 +90,7 @@ git clone https://github.com/Aryan-mfc/BlackDevil
 cd BlackDevil
 git pull
 chmod +x *
-python2 Black-Devil.py
+python Black-Devil.py
 
 Tool Installation successful
 
