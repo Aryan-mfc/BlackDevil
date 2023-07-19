@@ -95,32 +95,6 @@ python2 Black-Devil.py
 Tool Installation successful
 
 
-<h3><b><i>🏆 Github Statistics :</i></b></h3>
-<a href="https://github.com/Aryan-Mfc"><img title="trophy" src="https://github-profile-trophy.vercel.app/?username=Aryan-Mfc&theme=monokai"></a>
-</p>  
-<p align="center"> 
-
-
-# Profile Views
-
- <img src="https://profile-counter.glitch.me/Aryan-Mfc/count.svg" />
-</p>
-
-<p align="center">
-<a href="https://github.com/Aryan-mfc/CAM-HACK"><img title="CAM-HACK" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=CAM-HACK&theme=radical"></a>
-<a href="https://github.com/Aryan-mfc/fb-brute"><img title="fb-brute" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=fb-brute&theme=highcontrast"></a>
-<a href="https://github.com/Aryan-mfc/gmail-hack"><img title="gmail-hack" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=gmail-hack&theme=highcontrast"></a>
-<a href="https://github.com/Aryan-mfc/FacebookBrute"><img title="FacebookBrute" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=FacebookBrute&theme=highcontrast"></a>
-<a href="https://github.com/Aryan-mfc/Crack"><img title="Crack" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=Crack&theme=highcontrast"></a>
-<a href="https://github.com/Aryan-mfc/MAX"><img title="MAX" src="https://github-readme-stats.vercel.app/api/pin/?username=Aryan-Mfc&repo=MAX&theme=highcontrast"></a>
-
-
-
-![github stats](https://github-readme-stats.vercel.app/api?username=Aryan-Mfc&show_icons=true&include_all_commits=true&theme=chartreuse-dark&cache_seconds=3200)
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Aryan-Mfc&layout=compact&theme=chartreuse-dark" />
-<p align="center"> 
-
 
 
 
